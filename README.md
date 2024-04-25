@@ -1,5 +1,4 @@
-## Hi there 👋
-#### I am Marlene, a software engineer with an eye for design. 
+## Hi there. 👋 I am Marlene, a software engineer with an eye for design. 
 
 #### [> Connect with me](https://www.linkedin.com/in/marlene-goedecke/) 
 <hr>
