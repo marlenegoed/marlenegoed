@@ -5,9 +5,6 @@
 
 #### 🔭 recent project: 
 
-![image](./images/sm-slides-responsive.001.png)
-
-
-
+[![stitchmate image](./images/sm-slides-responsive.001.png)](https://github.com/marlenegoed/stitchmate)
 
 
