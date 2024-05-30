@@ -3,9 +3,9 @@
 #### [> Connect with me](https://www.linkedin.com/in/marlene-goedecke/) 
 <hr>
 
-#### 🔭 I’m currently working on ...
+#### 🔭 recent project: 
 
-![image](./images/preview_stitchmate.jpg)
+![image](./images/sm-slides-responsive.001.png)
 
 
 
