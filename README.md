@@ -1,10 +1,9 @@
-## Hi there. 👋 I am Marlene, a software engineer with an eye for design. 
+## Hi there. 👋 I am Marlene, a software engineer with an eye for design.
 
-#### [> Connect with me](https://www.linkedin.com/in/marlene-goedecke/) 
+#### [> Connect with me](https://www.linkedin.com/in/marlene-goedecke/)
+
 <hr>
 
-#### 🔭 recent project: 
+#### 🔭 stitchmate:
 
-[![stitchmate image](./images/sm-slides-responsive.png)](https://github.com/marlenegoed/stitchmate)
-
-
+[![stitchmate image](./images/stitchmate_01.png)](https://github.com/marlenegoed/stitchmate)
