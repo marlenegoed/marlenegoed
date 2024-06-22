@@ -1,6 +1,6 @@
 ## Hi there. 👋 I am Marlene, a software engineer with an eye for design.
 
-#### [> LinkedIn](https://www.linkedin.com/in/marlene-goedecke/)
+#### [> Linkedin](https://www.linkedin.com/in/marlene-goedecke/)
 
 <hr>
 
