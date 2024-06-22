@@ -6,4 +6,4 @@
 
 #### 🔭 stitchmate:
 
-[![stitchmate image](./images/stitchmate_01.png)](https://github.com/marlenegoed/stitchmate)
+[![stitchmate image](./images/stitchmate_01.jpg)](https://github.com/marlenegoed/stitchmate)
